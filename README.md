@@ -16,7 +16,7 @@ $cd gitclone https://github.com/DL-Circle/Mongolian-Script-Generator
 
 2. Generating 
 
-Download pretrained model from [here]() (Coming Soon...)
+Download pretrained model from [here](https://drive.google.com/file/d/1N6Yiz5oVHY89CwbFbybYsvvOyKGaRN4K/view?usp=sharing) 
 
 ```
 $python3 generate.py -w model.pt --num_sample 16
