@@ -11,7 +11,7 @@ This code is by Sodoo
 
 1. Clone this repository
 ```
-$cd gitclone https://github.com/DL-Circle/Mongolian-Script-Generator
+$git clone https://github.com/DL-Circle/Mongolian-Script-Generator
 ```
 
 2. Generating 
